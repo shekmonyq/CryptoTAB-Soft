@@ -33,7 +33,10 @@ https://github.com/user-attachments/assets/0c4d9ea1-2c53-4dd1-8376-fb4def85f066
 - **Flash Duration**: Control your timing( 90 Days to 600 Days).
 - **Tradable**: Freedom to trade.
 
-![photo_2025-02-25_06-14-17](https://github.com/user-attachments/assets/f375598b-083c-4ec4-98df-202360603b12)
+![photo_2025-05-11_15-22-23](https://github.com/user-attachments/assets/e13735c5-100a-48ad-9ade-1e9b23f477a1)
+![photo_2025-05-11_15-22-25](https://github.com/user-attachments/assets/5cacbfc3-f1c4-4bb5-88f4-3d735fa86566)
+![photo_2025-05-11_15-22-26](https://github.com/user-attachments/assets/8096887d-c2e1-4469-9fc9-ac88ba9605c8)
+![photo_2025-05-11_15-22-28](https://github.com/user-attachments/assets/11e7defd-4a91-4d30-99d5-3e97fae0c7a5)
 
 
 ---
