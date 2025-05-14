@@ -96,7 +96,7 @@ npm start
 Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are responsible for your gas fees. You'll find corresponding gas addresses for each token type.
 
 
-**Thank You for Believing in Us!** 
+**Thank You for Believing in Us!**   https://t.me/sellssupport
 
 
 
